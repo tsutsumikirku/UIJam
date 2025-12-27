@@ -1,5 +1,19 @@
 {
   "dependencies": {
+    "com.cysharp.unitask": {
+      "version": "2.5.10",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://package.openupm.com"
+    },
+    "com.tsutsumikiriku.yourmaidtools": {
+      "version": "https://github.com/tsutsumikirku/YourMaidTools.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "d6db16e48d2c1a574615e463a489a6a8b8ccccba"
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.9",
       "depth": 0,
